@@ -58,7 +58,7 @@
                                     <p>{{$article->excerpt}}</p>
                                 </div>
                                 <div class="has-text-centered">
-                                    <a href="/articles/{{$article->id}}" class="button is-primary">Read more...</a>
+                                    <a href="/articles/{{$article->id}}" class="button is-primary">Read more..</a>
                                 </div>
                             </div>
                             <footer class="card-footer">
